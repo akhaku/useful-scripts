@@ -1,0 +1,10 @@
+*Useful scripts by Ammar Khaku*
+-------------------------------
+
+* clean_kernels.sh: Interactively clean up old kernels.
+* flv.sh: Interactively find flv files in chrome's temp directory, and extract
+the mp3 from them. Requires ffmpeg mp3 codes.
+* getmp3.sh: Extract the mp3 from an flv. requires ffmpeg mp3 codecs.
+* connect.sh: Ssh connect to a few places I connect regularly.
+* choose_songs.sh: Go through all the files in a folder and interactively choose
+which to copy over to another folder.
